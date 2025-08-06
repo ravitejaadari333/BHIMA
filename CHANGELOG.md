@@ -2,6 +2,6 @@
 
 ## [unreleased]
 
-## [0.0.1] - 18-07-25
+## [0.0.1] - 23-07-25
 
-- First version IN PROGRESS
+- Implemented chat bot with hard coded values
