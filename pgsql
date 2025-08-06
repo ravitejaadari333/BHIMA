@@ -5,5 +5,8 @@ BHIMA/
 │   ├── style.css
 │   └── script.js
 └── functions/
-    ├── app.py             ← Your Flask backend
-    └── .env               <- In progress
+    ├── app.py
+    ├── Procfile
+    ├── requirements.txt
+    ├── .env               ← contains your OpenAI API key
+    └── .gitignore              
